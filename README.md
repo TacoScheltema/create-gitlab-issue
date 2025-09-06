@@ -51,6 +51,10 @@ Clone this repo to your local machine, then
 
 It will install in `~/.local/bin/` so you'll need to make sure to add this to your `PATH`
 
+### Authentication
+
+add a Gitlab authentication token to a file called `~/.gitlab-token` in your homedirectory.
+
 ## Upgrade
 
 To upgrade, from the cloned repo directory run the following
